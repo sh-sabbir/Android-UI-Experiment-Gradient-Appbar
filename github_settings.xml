@@ -1,6 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="sh-sabbir" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account id="2ea36433-fd07-49d3-89c7-a5d3caead63b" name="sh-sabbir">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
