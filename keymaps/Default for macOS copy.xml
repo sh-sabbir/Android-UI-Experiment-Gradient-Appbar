@@ -1,4 +1,8 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="NewAndroidVectorAsset">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
