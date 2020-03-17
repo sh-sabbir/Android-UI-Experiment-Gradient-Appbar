@@ -50,6 +50,10 @@
           <option name="url" value="https://hellosabbir@bitbucket.org/hellotask/ht-user-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:hellosabbir/suniti.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
