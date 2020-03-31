@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="classSchedule" type="JSON" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
